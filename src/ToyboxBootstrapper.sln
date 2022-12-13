@@ -1,0 +1,41 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33110.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ToyboxBootstrapper", "ToyboxBootstrapper\ToyboxBootstrapper.csproj", "{7C29958C-0AC8-4CFF-A034-D062D36A3FCB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ToyboxBootstrapper.Tests", "ToyboxBootstrapper.Tests\ToyboxBootstrapper.Tests.csproj", "{25A58492-5D06-424D-9C3C-3F47FD44329A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|ARM64 = Debug|ARM64
+		Debug|x64 = Debug|x64
+		Release|ARM64 = Release|ARM64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7C29958C-0AC8-4CFF-A034-D062D36A3FCB}.Debug|ARM64.ActiveCfg = Debug|ARM64
+		{7C29958C-0AC8-4CFF-A034-D062D36A3FCB}.Debug|ARM64.Build.0 = Debug|ARM64
+		{7C29958C-0AC8-4CFF-A034-D062D36A3FCB}.Debug|x64.ActiveCfg = Debug|x64
+		{7C29958C-0AC8-4CFF-A034-D062D36A3FCB}.Debug|x64.Build.0 = Debug|x64
+		{7C29958C-0AC8-4CFF-A034-D062D36A3FCB}.Release|ARM64.ActiveCfg = Release|ARM64
+		{7C29958C-0AC8-4CFF-A034-D062D36A3FCB}.Release|ARM64.Build.0 = Release|ARM64
+		{7C29958C-0AC8-4CFF-A034-D062D36A3FCB}.Release|x64.ActiveCfg = Release|x64
+		{7C29958C-0AC8-4CFF-A034-D062D36A3FCB}.Release|x64.Build.0 = Release|x64
+		{25A58492-5D06-424D-9C3C-3F47FD44329A}.Debug|ARM64.ActiveCfg = Debug|ARM64
+		{25A58492-5D06-424D-9C3C-3F47FD44329A}.Debug|ARM64.Build.0 = Debug|ARM64
+		{25A58492-5D06-424D-9C3C-3F47FD44329A}.Debug|x64.ActiveCfg = Debug|x64
+		{25A58492-5D06-424D-9C3C-3F47FD44329A}.Debug|x64.Build.0 = Debug|x64
+		{25A58492-5D06-424D-9C3C-3F47FD44329A}.Release|ARM64.ActiveCfg = Release|ARM64
+		{25A58492-5D06-424D-9C3C-3F47FD44329A}.Release|ARM64.Build.0 = Release|ARM64
+		{25A58492-5D06-424D-9C3C-3F47FD44329A}.Release|x64.ActiveCfg = Release|x64
+		{25A58492-5D06-424D-9C3C-3F47FD44329A}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8443965D-5B17-4990-AF17-990D6886CB88}
+	EndGlobalSection
+EndGlobal
