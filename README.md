@@ -5,7 +5,7 @@
     </h1>
     <p align="center"><b>A bootstrapper to create an environment for executing games</b></p>
     <p align="center">
-        <a target="_blank" href="https://github.com/project-toybox/toybox-bootstrapper/actions"><img alt="GitHub Workflow Status" src="https://img.shields.io/github/workflow/status/project-toybox/toybox-bootstrapper/Release"></a>
+        <a target="_blank" href="https://github.com/project-toybox/toybox-bootstrapper/actions"><img alt="GitHub Workflow Status" src="https://img.shields.io/github/actions/workflow/status/project-toybox/toybox-bootstrapper/release.yml?branch=main"></a>
         <a target="_blank" href="https://github.com/project-toybox/toybox-bootstrapper/releases/latest"><img alt="GitHub release (latest by date)" src="https://img.shields.io/github/v/release/project-toybox/toybox-bootstrapper"></a>
         <a target="_blank" href="https://github.com/project-toybox/toybox-bootstrapper/blob/main/LICENSE"><img alt="GitHub" src="https://img.shields.io/github/license/project-toybox/toybox-bootstrapper"></a>
     </p>
